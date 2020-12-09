@@ -5,12 +5,12 @@
 
 ## Task 1
 
-Have bulk of the code work done, Need to put in more theory .
+Almost done 
 
 
 ## Task 2
 
-Half way on code. Most of the theroy part done . 
+Almost done 
 
 
 ## Task 3 
@@ -19,7 +19,7 @@ TODO code part theory almost done
 
 ## Task 4 
 
-TODO
+Some theoy done , more TODO
 
 
 

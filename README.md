@@ -5,7 +5,7 @@
 
 This project has been implemented in a Jupyter Notebook .
 
-The Jupyer Notebook containing the assessment is called "tasksmachineLearningandStats.ipynb" and is included in this GitHub  repository. A local copy of this reposition can be downloaded to your PC noting the requirement of the license of use included in the repository.
+The Jupyer Notebook containing the assessment is called "tasksmachineLearningandStats.ipynb" and is included in this GitHub  repository. A local copy of this reposition can be downloaded to your PC.
 
 you can open the Jupyter Notebook from a command line or terminal where the local copy of the repository is stored. 
 The command to open the notebook is jupyter notebook I use is **jupyter lab**
